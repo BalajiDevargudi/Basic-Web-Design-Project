@@ -1,5 +1,5 @@
 # Basic-Web-Design-Project
 
-Download all the files from Git Hub Repository.
-Click on the index.html page to open the website.
-Then basic website will open. 
+1) Download all the files from Git Hub Repository.
+2) Click on the index.html page to open the website.
+3) Then basic website will open. 
